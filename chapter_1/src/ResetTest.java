@@ -6,4 +6,6 @@ public class ResetTest {
     // reset test1
 
     // reset test2
+
+    // reset test3
 }
